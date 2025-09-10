@@ -30,6 +30,17 @@ done
 ✅ Output should be:
 
 ```
+```
+
+# Q1 = differnce between $1,$@ and $# in bash?
+
+ans = $1= this refers to positional parameters
+$@= represents all arguments passed to the script
+$#= returns the number of arguments passed
+
+# Q2 = what does exit 1 mean in the script
+    
+ans = script is terminating with an error
 
 
 
